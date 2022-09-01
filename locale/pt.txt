@@ -1,0 +1,39 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_E85D48B4_F9EB_ECAF_41DA_9204E64E2A91.source = https://api.whatsapp.com/send?phone=5522992199188
+LinkBehaviour_E8CAC6FC_F9E9_249F_41D4_C360D9BEA1F8.source = https://www.google.com.br/maps/place/AuQueMia+Petshop/@-21.7916469,-43.146325,8z/data=!4m9!1m2!2m1!1sauquemia!3m5!1s0xbdd5abb9f172ab:0xc5572b4ea48c5da!8m2!3d-21.7744133!4d-41.2900626!15sCghhdXF1ZW1pYVoKIghhdXF1ZW1pYZIBCXBldF9zdG9yZeABAA?hl=pt-BR
+LinkBehaviour_E84D73F0_F9E9_5CA7_41B2_D3C0C7BF52D5.source = https://www.instagram.com/
+
+## Media
+
+### Audio
+audiores_EB62A3E4_F9D9_5CAF_41DD_F67A2F51554D.mp3Url = media/audio_EB3F0716_F9D9_256B_41E6_5DE0B981EDF5_pt.mp3
+
+### Title
+panorama_F3B5F65F_F9D7_2799_41E1_4D73DD2A1617.label = Entrada lado direfito
+panorama_F572B209_F9D7_5F79_41CA_7119384BFBCF.label = Entrada lado esquerdo
+panorama_F3B9FFAC_F9D8_E4BF_41E7_E633789A6354.label = Fachada loja
+
+panorama_F3B5A9E4_F9D7_2CAF_41E1_F9B6B366E01B.label = Meio lado direito
+panorama_F331DDCA_F9D7_64FB_41E4_36B21FC81098.label = Meio lado esquerdo
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Tour Virtual Auquemia
+
+## VR Menu
+
+### Text
+MenuItem_EE0C8339_FA59_5D99_41D9_2605593B8FCD.label = Entrada lado direfito
+MenuItem_EE0C9339_FA59_5D99_41EE_AB4907B49234.label = Entrada lado esquerdo
+MenuItem_EE0C533A_FA59_5D9B_41D5_F738E868F9E5.label = Fachada loja
+
+Menu_E81B0FAF_F9DF_24B9_41C2_4C291374A08E.label = Media
+MenuItem_EE0C433A_FA59_5D9B_41C0_207FC7A5C832.label = Meio lado direito
+MenuItem_EE0C7339_FA59_5D99_41E2_51E4FC863894.label = Meio lado esquerdo
